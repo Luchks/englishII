@@ -1,0 +1,1 @@
+config.set('editor.command', ['xterm', '-e', 'nvim', '{file}'])
